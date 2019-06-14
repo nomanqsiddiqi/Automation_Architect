@@ -1,11 +1,11 @@
-13/06/2019 11:54:14 devpinoyLogger Config file loaded !!!!
-13/06/2019 11:54:14 devpinoyLogger OR file loaded !!!!
-13/06/2019 11:54:18 devpinoyLogger Chrome Launched !!!!
-13/06/2019 11:54:23 devpinoyLogger Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
-13/06/2019 11:54:24 devpinoyLogger Inside Login Test
-13/06/2019 11:54:25 devpinoyLogger Element found: Test Passed
-13/06/2019 11:54:25 devpinoyLogger Login successfully executed
-13/06/2019 11:54:25 devpinoyLogger ----Start the Add Customer Test----
-13/06/2019 11:54:25 devpinoyLogger ----Add Customer page opened----
-13/06/2019 11:54:26 devpinoyLogger ----New Customer Record added Successfully----
-13/06/2019 11:54:38 devpinoyLogger test execution completed !!!
+14/06/2019 14:53:11 devpinoyLogger Config file loaded !!!!
+14/06/2019 14:53:11 devpinoyLogger OR file loaded !!!!
+14/06/2019 14:53:16 devpinoyLogger Chrome Launched !!!!
+14/06/2019 14:53:21 devpinoyLogger Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+14/06/2019 14:53:22 devpinoyLogger Inside Login Test
+14/06/2019 14:53:22 devpinoyLogger Element found: Test Passed
+14/06/2019 14:53:22 devpinoyLogger Login successfully executed
+14/06/2019 14:53:23 devpinoyLogger ----Start the Add Customer Test----
+14/06/2019 14:53:23 devpinoyLogger ----Add Customer page opened----
+14/06/2019 14:53:24 devpinoyLogger ----New Customer Record added Successfully----
+14/06/2019 14:53:26 devpinoyLogger test execution completed !!!
